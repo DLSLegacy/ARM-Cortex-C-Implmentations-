@@ -1,6 +1,4 @@
-He110 W0rld
 
-Directives 
         PRESERVES 
         THUMB ;  
 
